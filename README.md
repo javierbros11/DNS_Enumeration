@@ -23,6 +23,6 @@ Instalar Python en caso de que no lo tenga:
 
 
 
-## Tech Stack
+## Desarrollo
 
 El script presentado se encuentra desarrollado en **Python**.
