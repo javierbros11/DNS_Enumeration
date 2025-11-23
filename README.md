@@ -22,12 +22,12 @@ Instalar Python en caso de que no lo tenga:
 - **Fácil y rápido**: Al ejecutar el script únicamente nos solicitará que introduzcamos un nombre de dominio a buscar. A continuación devolverá toda la información obtenida mostrada en la terminal.
 
 
+## Desarrollo
+
+El script presentado se encuentra desarrollado en **Python**.
+
 ## Disclaimer
 
 El script fue creado únicamente por motivos educativos, principalmente para aprender a realizar scripts o programas desarrollados en Python que involucren conceptos o casos prácticos a la Ciberseguridad o al Hacking Ético.
 
 Se ruega utilizar los programas añadidos a este repositorios para dicho fin sobre equipos aislados o virtuales para simular el entorno, en caso contrario, no nos hacemos responsables de su uso fuera de ese ámbito.
-
-## Desarrollo
-
-El script presentado se encuentra desarrollado en **Python**.
